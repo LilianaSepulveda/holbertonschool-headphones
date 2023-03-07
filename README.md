@@ -34,4 +34,4 @@ Besides the responsiveness of the site, the web page was also coded to be as acc
 
 This resulted in the only problem of this area to be the contrast of the site, which at the moment can not be changed for design reasons.
 
-Besides this, there are no other issues as shown by an Axe analysis in the browser. This means all aria labels and content presentation considerations were taken into account in the HTML layout.
+Besides this, there are no other issues as shown by an Axe analysis in the browser. This means all aria labels and content presentation considerations were taken into account in the HTML.
